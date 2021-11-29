@@ -1,4 +1,4 @@
-# .github/workflows/gradle-build-pr.yml
+# .github/workflows/gradle-build-push.yml
 name: Run Gradle on Push
 on:
   push:
